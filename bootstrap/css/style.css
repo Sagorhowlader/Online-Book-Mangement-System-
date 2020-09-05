@@ -1,0 +1,74 @@
+element.style {
+}
+
+@media only screen and (max-width: 767px)
+img.authorImg {
+    height: 130px;
+    width: 130px;
+}
+img.authorImg {
+    border: 2px solid #c7c7c7;
+    border-radius: 50%;
+    height: 140px;
+    width: 140px;
+    margin: 0 auto;
+    display: block;
+}
+audio, canvas, iframe, img, svg, video {
+    vertical-align: middle;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+img {
+    border: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+a {
+    color: #4490a5;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+.authorList>li {
+    vertical-align: top;
+    padding: 15px;
+    width: 234px;
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+.authorList {
+    font-size: 0;
+    margin: 15px -15px 35px;
+}
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
